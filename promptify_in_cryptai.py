@@ -1,9 +1,9 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="Shameless Promptify Promotion", layout="centered")
-st.title("Shameless Promptify Promotion")
-st.markdown('[CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE!](https://unstop.com/hackathons/promptify-invictus-2025-technical-council-dtu-1387638)')
+st.set_page_config(page_title="Prompt Hacking  - Promptify Level 3", layout="centered")
+st.title("Prompt Hacking  - Promptify Level 3")
+# st.markdown('[CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE! CLICK HERE!](https://unstop.com/hackathons/promptify-invictus-2025-technical-council-dtu-1387638)')
 
 api_key = st.secrets["GPT_API_KEY"]
 external_user_id = 'user'
